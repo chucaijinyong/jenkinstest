@@ -12,6 +12,6 @@ public class UserController {
     public String findAll() {
 
         System.out.println("66666666666");
-        return "hello";
+        return "楚才";
     }
 }
