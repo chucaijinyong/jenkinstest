@@ -11,7 +11,7 @@ public class UserController {
     @GetMapping
     public String findAll() {
 
-        System.out.println("444444444");
+        System.out.println("66666666666");
         return "hello";
     }
 }
